@@ -2,8 +2,8 @@
 assignment is related to making 2 backend api's
 
 ## The two api's are <br/>
-[invoices](http://127.0.0.1:8000/api/invoices/?format=api)<br/>
-[invoice_details](http://127.0.0.1:8000/api/invoice_details/?format=api)
+[Invoices](http://127.0.0.1:8000/api/invoices/?format=api)<br/>
+[Invoice_details](http://127.0.0.1:8000/api/invoice_details/?format=api)
 
 ## operations that can made on the api's
 1.fetch -get 
