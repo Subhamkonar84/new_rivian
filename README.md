@@ -6,10 +6,10 @@ assignment is related to making 2 backend api's
 [Invoice_details](http://127.0.0.1:8000/api/invoice_details/?format=api)
 
 ## operations that can made on the api's
-1.fetch -get 
-2.create-post
-3.update-put
-4.delete-delete 
+1.fetch -get <br/>
+2.create-post<br/>
+3.update-put<br/>
+4.delete-delete <br/>
 
 link for the video with no audio due to technical difficulties is 
 
